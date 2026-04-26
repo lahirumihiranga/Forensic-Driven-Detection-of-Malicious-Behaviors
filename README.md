@@ -1,15 +1,10 @@
-Here is your **UPDATED README.md** rewritten completely based on your PP1 Presentation PDF 
-(I aligned it with your actual research topic, modules, objectives, and architecture)
-
----
-
 # 🔐 FORENSIC-DRIVEN MALICIOUS BEHAVIOR DETECTION SYSTEM
 
 ### 🧠 ML-Enabled Multi-Layer Behavioral Analysis Framework
 
 ## 📋 Project Description
 
-Modern cyberattacks are becoming increasingly sophisticated by exploiting **encryption, legitimate APIs, and trusted system tools**. Traditional security systems that rely on **signature-based or payload-based detection** are no longer effective, especially against **zero-day attacks and hidden behavioral threats** .
+Modern cyberattacks are becoming increasingly sophisticated by exploiting **encryption, legitimate APIs, and trusted system tools**. Traditional security systems that rely on **signature-based or payload-based detection** are no longer effective, especially against **zero-day attacks and hidden behavioral threats**.
 
 This project proposes a **forensic-driven, multi-layer machine learning framework** that detects malicious activities by analyzing behavior across multiple system layers instead of relying on known attack signatures.
 
@@ -26,7 +21,7 @@ By integrating these layers, the system provides **accurate detection, reduced f
 
 ## 🎯 Main Objective
 
-To design and implement a **multi-layer ML-based forensic system** capable of detecting malicious behaviors that bypass traditional detection mechanisms .
+To design and implement a **multi-layer ML-based forensic system** capable of detecting malicious behaviors that bypass traditional detection mechanisms.
 
 ---
 
@@ -41,7 +36,7 @@ To design and implement a **multi-layer ML-based forensic system** capable of de
 
 ## 🧩 System Components
 
-The system is divided into **four major modules** :
+The system is divided into **four major modules**:
 
 ### 1️⃣ Network Accessing Behavior Analysis Module
 
@@ -79,7 +74,7 @@ The system follows a **multi-layer forensic architecture**:
 * **Layer 4:** Correlation Engine & Anomaly Detection
 * **Layer 5:** Alerts, Reports & Forensic Reconstruction
 
-👉 As shown in the architecture diagram (Page 7), all modules are integrated into a **central anomaly detection engine** .
+👉 As shown in the architecture diagram, all modules are integrated into a **central anomaly detection engine**.
 
 ---
 
@@ -140,7 +135,7 @@ The system follows a **multi-layer forensic architecture**:
 * Reduce false positives using threshold tuning
 * Enable real-time detection
 * Integrate all modules for full cross-layer analysis
-* Build forensic timeline reconstruction system 
+* Build forensic timeline reconstruction system
 
 ---
 
@@ -158,7 +153,7 @@ The system follows a **multi-layer forensic architecture**:
 * Unified detection across multiple system layers
 * Works with encrypted data (no decryption needed)
 * Provides forensic evidence for investigations
-* Detects advanced and hidden cyber threats 
+* Detects advanced and hidden cyber threats
 
 ---
 
@@ -199,8 +194,8 @@ This project introduces a **modern AI-driven cybersecurity solution** that overc
 
 ## 📄 Files
 
-* Original README: 
-* PP1 Presentation PDF: 
+* Original README:
+* PP1 Presentation PDF:
 
 ---
 
