@@ -6,7 +6,7 @@ import { Activity, Heart, Sparkles } from "lucide-react";
 
 const milestones = [
   {
-    date: "Apr 19, 2024",
+    date: "May 30, 2025",
     title: "Awareness Session",
     description:
       "Awareness session for the research project and, we had to select a supervisor.",
@@ -14,14 +14,14 @@ const milestones = [
     icon: Heart,
   },
   {
-    date: "Jul 05, 2024",
+    date: "Jul 14, 2025",
     title: "Topic Evaluation",
     description: "In this stage the Topic we selected been evaluated.",
     color: "bg-yellow-400",
     icon: Sparkles,
   },
   {
-    date: "Aug 05, 2024",
+    date: "Aug 05, 2025",
     title: "Project Proposal Presentation",
     description:
       "A project proposal is prepared to make an offer and to try to convince a supervisor or a future customer to accept it.",
@@ -29,35 +29,35 @@ const milestones = [
     icon: Activity,
   },
   {
-    date: "Dec 04, 2024",
+    date: "Jan 05, 2026",
     title: "Progress Presentation 1",
     description: "In this stage we had to show our progress up to 50%.",
     color: "bg-blue-600",
     icon: Heart,
   },
   {
-    date: "Mar 07, 2025",
+    date: "Feb 15, 2026",
     title: "Research Paper",
     description: "Published research findings and methodology.",
     color: "bg-teal-500",
     icon: Sparkles,
   },
   {
-    date: "Mar 20, 2025",
+    date: "Mar 09, 2026",
     title: "Progress Presentation 2",
     description: "Demonstrated 90% progress.",
     color: "bg-green-500",
     icon: Heart,
   },
   {
-    date: "Apr 11, 2025",
+    date: "Apr 11, 2026",
     title: "Thesis Submission",
     description: "Thesis paper of the project.",
     color: "bg-gray-700",
     icon: Activity,
   },
   {
-    date: "May 26, 2025",
+    date: "May 4, 2026",
     title: "Final Presentation and viva",
     description: "Finalized and Demonstrated 100% progress.",
     color: "bg-purple-700",
